@@ -1,0 +1,20 @@
+{
+  "name": "nalsoft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "fcm-v1-http2": "^1.0.1",
+    "firebase-admin": "^12.0.0",
+    "google-auth-library": "^9.6.3",
+    "googleapis": "^133.0.0",
+    "punycode": "^2.3.1"
+  }
+}
